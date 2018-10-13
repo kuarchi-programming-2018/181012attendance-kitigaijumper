@@ -1,7 +1,8 @@
 # 181012attendance
 * # 課題
     * ## 本日10/12授業中までの課題
-        * URL
+        https://classroom.github.com/a/_a0mbxMh
+        上記URLにアクセスして，kuarchi-programming-2018/181012attendance-[自分のアカウント名]のリポジトリを自動作成し，そこに提出してください。
         * githubで提出
         * 以下の関数をもつ`fibonacci.py`というファイルを作成してください。
             * $$n$$番目のフィボナッチ数を$$F(n)$$で表す。
